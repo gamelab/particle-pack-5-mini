@@ -1,0 +1,36 @@
+#ignore thumbnails
+.DS_Store
+Thumbs.db
+#Ignore files build by Visual Studio
+*.obj
+*.exe
+*.pdb
+*.user
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.sln
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+*.map
+*.orig
+
+#bower_components/*
+/obj/debug/*
+*.map
+*.config
+[Bb]in
+*.lib
+*.sbr
+_ReSharper*/
+[Tt]est[Rr]esult*
+!gruntfile.js
+/node_modules

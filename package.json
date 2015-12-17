@@ -1,0 +1,34 @@
+{
+    "name": "ParticlePack5",
+    "version": "0.1.0",
+    "filenameBase": "particlepack5",
+    "description": "Mini particle pack.",
+    "author": {
+        "name" : "GameLab",
+        "email" : "support@kiwijs.org"
+    },
+
+    "homepage": "http://kiwijs.org/",
+    "bugs": "support@kiwijs.org",
+    "license": "MIT",
+    "licenseUrl": "",
+
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+
+    "main": "src/",
+
+    "dependencies": {},
+    "devDependencies": {
+        "grunt": "~0.4.x",
+        "grunt-contrib-clean": "^0.7.0",
+        "grunt-contrib-concat": "latest",
+        "grunt-contrib-connect": "~0.3.0",
+        "grunt-contrib-copy": "0.4.x",
+        "grunt-contrib-jshint": "latest",
+        "grunt-contrib-uglify": "0.2.x",
+        "grunt-contrib-yuidoc": "0.4.x"
+    }
+}
